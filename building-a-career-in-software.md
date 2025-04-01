@@ -14,6 +14,10 @@
 
 ### __Chapter 1:__ _The Big Picture_
 
+* __pg 3:__ The most important lesson in this whole book: *You need to own your own career, because no one else will guide you.* 
+* __pg 5:__ Your job isn't just to write the code and wait for everything else to fall into place; your job is to figure out how to create value with your efforts.
+* __pg 6:__ Consistency is keyl build habits that will keep you growing throughout your career.
+
 ### __Chapter 2:__ _Landing Jobs_
 
 ### __Chapter 3:__ _Learning and Growing_
